@@ -1,0 +1,8 @@
+[package]
+name = "project2-raytracing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.7"
+nalgebra = "0.29"   # For handling 3D vector math
